@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Vasilev10\Vasilev10\bin\Debug\Vasilev10.exe.config
+C:\Users\User\source\repos\Vasilev10\Vasilev10\bin\Debug\Vasilev10.exe
+C:\Users\User\source\repos\Vasilev10\Vasilev10\bin\Debug\Vasilev10.pdb
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.Form1.resources
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.Properties.Resources.resources
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.exe
+C:\Users\User\source\repos\Vasilev10\Vasilev10\obj\Debug\Vasilev10.pdb
